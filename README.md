@@ -7,4 +7,4 @@ Finally, I made the interaction between the program and the user slightly more s
 Enjoy this program! Train hard!
 
 Terminal Method:
-	If you have trouble running the notebook after downloading it, use nbconvert to convert the notebook to an executable script. The terminal command would look like(jupyter nbconvert --to script Program.ipynb). 
+	If you have trouble running the notebook after downloading it, use nbconvert to convert the notebook to an executable script. The terminal command would look like(jupyter nbconvert --to script Program.ipynb). Then, run the Program.py script in python(python Program.py)
