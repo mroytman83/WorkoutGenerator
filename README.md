@@ -1,5 +1,5 @@
 # WorkoutGenerator
-A GUI for a randomized weightlifting routine 
+A GUI randomized weightlifting routine in Python 
 
 I created a randomized workout generator based upon some conventional strength/training weightlifting workout splits which are bucketised based upon certain muscle groups. 
 In the process of creating this workout generator I used a Resistance Training Planner from Manitobas’ Physical Education and Health Education Curriculum with 250 exercises and their specific muscle group concentration.(https://www.edu.gov.mb.ca/k12/cur/physhlth/)
