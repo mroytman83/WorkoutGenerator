@@ -6,5 +6,5 @@ In the process of creating this workout generator I used a Resistance Training P
 Finally, I made the interaction between the program and the user slightly more sophisticated by creating a graphical user interface in tkinter. 
 Enjoy this program! Train hard!
 
-Terminal Method:
-	If you have trouble running the notebook after downloading it, use nbconvert to convert the notebook to an executable script. The terminal command would look like(jupyter nbconvert --to script Program.ipynb). Then, run the Program.py script in python(python Program.py)
+Note:
+Previously written using Jupyter Notebook, had to source code to convert it to a script. 
